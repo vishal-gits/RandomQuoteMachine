@@ -1,7 +1,7 @@
 export const data = [
   {
     id: 1,
-    quote: "Life isn’t about getting and having, it’s about giving and being.",
+    quote: "Life isn't about getting and having, it's about giving and being.",
     author: "Kevin Kruse",
   },
   {
@@ -27,13 +27,13 @@ export const data = [
   },
   {
     id: 6,
-    quote: "You miss 100% of the shots you don’t take.",
+    quote: "You miss 100% of the shots you don't take.",
     author: "Wayne Gretzky",
   },
   {
     id: 7,
     quote:
-      "I’ve missed more than 9000 shots in my career. I’ve lost almost 300 games. 26 times I’ve been trusted to take the game winning shot and missed. I’ve failed over and over and over again in my life. And that is why I succeed.",
+      "I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.",
     author: "Michael Jordan",
   },
   {
@@ -59,7 +59,7 @@ export const data = [
   },
   {
     id: 12,
-    quote: "Life is what happens to you while you’re busy making other plans.",
+    quote: "Life is what happens to you while you're busy making other plans.",
     author: "John Lennon",
   },
   {
@@ -70,7 +70,7 @@ export const data = [
   {
     id: 14,
     quote:
-      "Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do, so throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails.  Explore, Dream, Discover.",
+      "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do, so throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails.  Explore, Dream, Discover.",
     author: "Mark Twain",
   },
   {
@@ -81,7 +81,7 @@ export const data = [
   {
     id: 16,
     quote:
-      "The most common way people give up their power is by thinking they don’t have any.",
+      "The most common way people give up their power is by thinking they don't have any.",
     author: "Alice Walker",
   },
   {
@@ -108,12 +108,12 @@ export const data = [
   {
     id: 21,
     quote:
-      "Your time is limited, so don’t waste it living someone else’s life.",
+      "Your time is limited, so don't waste it living someone else's life.",
     author: "Steve Jobs",
   },
   {
     id: 22,
-    quote: "Winning isn’t everything, but wanting to win is.",
+    quote: "Winning isn't everything, but wanting to win is.",
     author: "Vince Lombardi",
   },
   {
@@ -137,7 +137,7 @@ export const data = [
   {
     id: 26,
     quote:
-      "I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+      "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
     author: "Maya Angelou",
   },
   {
@@ -147,7 +147,7 @@ export const data = [
   },
   {
     id: 28,
-    quote: "Whether you think you can or you think you can’t, you’re right.",
+    quote: "Whether you think you can or you think you can't, you're right.",
     author: "Henry Ford",
   },
   {
@@ -170,12 +170,12 @@ export const data = [
   {
     id: 32,
     quote:
-      "People often say that motivation doesn’t last. Well, neither does bathing.  That’s why we recommend it daily.",
+      "People often say that motivation doesn't last. Well, neither does bathing.  That's why we recommend it daily.",
     author: "Zig Ziglar",
   },
   {
     id: 33,
-    quote: "Life shrinks or expands in proportion to one’s courage.",
+    quote: "Life shrinks or expands in proportion to one's courage.",
     author: "Anais Nin",
   },
   {
@@ -228,12 +228,12 @@ export const data = [
   },
   {
     id: 42,
-    quote: "Believe you can and you’re halfway there.",
+    quote: "Believe you can and you're halfway there.",
     author: "Theodore Roosevelt",
   },
   {
     id: 43,
-    quote: "Everything you’ve ever wanted is on the other side of fear.",
+    quote: "Everything you've ever wanted is on the other side of fear.",
     author: "George Addair",
   },
   {
@@ -256,7 +256,7 @@ export const data = [
   {
     id: 47,
     quote:
-      "When I was 5 years old, my mother always told me that happiness was the key to life.  When I went to school, they asked me what I wanted to be when I grew up.  I wrote down ‘happy’.  They told me I didn’t understand the assignment, and I told them they didn’t understand life.",
+      "When I was 5 years old, my mother always told me that happiness was the key to life.  When I went to school, they asked me what I wanted to be when I grew up.  I wrote down ‘happy'.  They told me I didn't understand the assignment, and I told them they didn't understand life.",
     author: "John Lennon",
   },
   {
@@ -301,7 +301,7 @@ export const data = [
   {
     id: 55,
     quote:
-      "If you’re offered a seat on a rocket ship, don’t ask what seat! Just get on.",
+      "If you're offered a seat on a rocket ship, don't ask what seat! Just get on.",
     author: "Sheryl Sandberg",
   },
   {
@@ -318,7 +318,7 @@ export const data = [
   {
     id: 58,
     quote:
-      "You can’t fall if you don’t climb.  But there’s no joy in living your whole life on the ground.",
+      "You can't fall if you don't climb.  But there's no joy in living your whole life on the ground.",
     author: "Unknown",
   },
   {
@@ -365,12 +365,12 @@ export const data = [
   {
     id: 66,
     quote:
-      "What’s money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.",
+      "What's money? A man is a success if he gets up in the morning and goes to bed at night and in between does what he wants to do.",
     author: "Bob Dylan",
   },
   {
     id: 67,
-    quote: "I didn’t fail the test. I just found 100 ways to do it wrong.",
+    quote: "I didn't fail the test. I just found 100 ways to do it wrong.",
     author: "Benjamin Franklin",
   },
   {
@@ -433,7 +433,7 @@ export const data = [
   {
     id: 79,
     quote:
-      "The battles that count aren’t the ones for gold medals. The struggles within yourself–the invisible battles inside all of us–that’s where it’s at.",
+      "The battles that count aren't the ones for gold medals. The struggles within yourself–the invisible battles inside all of us–that's where it's at.",
     author: "Jesse Owens",
   },
   {
@@ -444,7 +444,7 @@ export const data = [
   {
     id: 81,
     quote:
-      "I have learned over the years that when one’s mind is made up, this diminishes fear.",
+      "I have learned over the years that when one's mind is made up, this diminishes fear.",
     author: "Rosa Parks",
   },
   {
@@ -455,7 +455,7 @@ export const data = [
   {
     id: 83,
     quote:
-      "If you look at what you have in life, you’ll always have more. If you look at what you don’t have in life, you’ll never have enough.",
+      "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.",
     author: "Oprah Winfrey",
   },
   {
@@ -466,7 +466,7 @@ export const data = [
   },
   {
     id: 85,
-    quote: "You can’t use up creativity.  The more you use, the more you have.",
+    quote: "You can't use up creativity.  The more you use, the more you have.",
     author: "Maya Angelou",
   },
   { id: 86, quote: "Dream big and dare to fail.", author: "Norman Vaughan" },
@@ -484,7 +484,7 @@ export const data = [
   {
     id: 89,
     quote:
-      "If you do what you’ve always done, you’ll get what you’ve always gotten.",
+      "If you do what you've always done, you'll get what you've always gotten.",
     author: "Tony Robbins",
   },
   {
@@ -495,13 +495,13 @@ export const data = [
   {
     id: 91,
     quote:
-      "It’s your place in the world; it’s your life. Go on and do all you can with it, and make it the life you want to live.",
+      "It's your place in the world; it's your life. Go on and do all you can with it, and make it the life you want to live.",
     author: "Mae Jemison",
   },
   {
     id: 92,
     quote:
-      "You may be disappointed if you fail, but you are doomed if you don’t try.",
+      "You may be disappointed if you fail, but you are doomed if you don't try.",
     author: "Beverly Sills",
   },
   {
@@ -517,13 +517,13 @@ export const data = [
   {
     id: 95,
     quote:
-      "The question isn’t who is going to let me; it’s who is going to stop me.",
+      "The question isn't who is going to let me; it's who is going to stop me.",
     author: "Ayn Rand",
   },
   {
     id: 96,
     quote:
-      "It’s not the years in your life that count. It’s the life in your years.",
+      "It's not the years in your life that count. It's the life in your years.",
     author: "Abraham Lincoln",
   },
   {
